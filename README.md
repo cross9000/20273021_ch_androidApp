@@ -5,4 +5,4 @@
   - 안드로이드앱프로그래밍
   - 앱기획
 
-<img width="200" height="300" src="./png/<2주차_20273021김채현>.png"></img>
+<img width="170" height="300" src="./png/2주차 과제 스크린샷.png"></img>
