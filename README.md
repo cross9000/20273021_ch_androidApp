@@ -17,5 +17,5 @@
 또한 미리 주문, 예약도 가능하다면 시간을 절약할 수 있을 것입니다.
 
 ## 5주차 과제
-<img width="170" height="300" src="./png/5주차과제_1.png"></img>
-<img width="170" height="300" src="./png/5주차과제_2.png"></img>
+<img width="170" height="300" src="./png/5주차과제1.png"></img>
+<img width="170" height="300" src="./png/5주차과제2.png"></img>
