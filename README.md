@@ -19,3 +19,7 @@
 ## 5주차 과제
 <img width="170" height="300" src="./png/5주차과제1.png"></img>
 <img width="170" height="300" src="./png/5주차과제2.png"></img>
+
+## 6주차 과제
+<img width="170" height="300" src="./png/6주차과제_넓이.png"></img>
+<img width="170" height="300" src="./png/6주차과제_높이.png"></img>
